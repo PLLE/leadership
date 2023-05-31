@@ -32,3 +32,9 @@ People value what is scarce. It’s just basic supply and demand. As things beco
 At the same time, how you present such opportunities matters too. If you focus more on loss language, or language that demonstrates what you will lose out on rather than gain, your message becomes more powerful.
 Finally is the exclusivity approach. Providing access to information, services, or other items to a limited set of people creates a sense of exclusiveness. This often gets translated into being a favor to those people or that you value them more than others.
 If you can combine all of these to frame a situation, your powers of persuasion greatly increase. So try to utilize limited offers, loss language, and exclusivity, to create a sense of scarcity.
+
+
+## Process of Influence
+![Screenshot 2023-05-31 at 15 28 32](https://github.com/PLLE/leadership/assets/10855533/dbdd7922-1852-46fb-8326-833b6eae0d29)
+
+
