@@ -16,3 +16,14 @@ Coaches work with clients to help them find their own answers and strategies for
 
 ## Difference between coaching and mentoring
 It is important to note that coaching is distinct from mentoring or counseling. While coaching focuses on the present and future, mentoring involves sharing knowledge and guidance based on the mentor's expertise, and counseling addresses emotional or psychological issues.
+
+
+# The seven essential coaching questions
+* “What's on your mind?”
+* “And what else?”
+* “What's the real challenge here for you?”
+* “What do you (really) want (from me)?”
+* “How can I help?”
+* “If you're saying yes to this, what are you saying no to?”
+* “What was most useful for you?”
+
