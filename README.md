@@ -21,6 +21,11 @@ In order to contirbute to the leadership best practices please create a merge re
 
 4. Access locally deployed site via <http://localhost:8000/>
 
+## Deployment
+
+Deployment happens automatically. 
+Page can be accessed via <https://plle.github.io/leadership/>
+
 ## Contact
 
 Paul Liepe <paulleonliepe@gmail.com>

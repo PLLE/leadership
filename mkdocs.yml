@@ -1,4 +1,5 @@
 site_name: Modern Leadership Toolbox
+site_url: https://plle.github.io/leadership/
 theme:
   name: material
   features:
