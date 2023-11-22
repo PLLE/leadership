@@ -3,18 +3,27 @@ comments: true
 ---
 # Overview
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Vision
 
-## Commands
+The vision behind this page is to build an "open-source" community for leadership!
+The community consists of leadership enthusiasts which collaborately discuss and define modern leadership practices on this platform. <br>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Use this platform to reflect my leadership style and provide it as an example to the community.
 
-## Project layout
+## Structure
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Leadership has many facettes, for the start we want to break it down into the following categories which will have many sub categories:
+
+* Leading Self
+* Leading Others
+* Leading Organization
+
+
+## Core characteristics of modern leaders
+
+* Positive
+* Empathy
+* Focused
+* Concise Communicators
+
+
