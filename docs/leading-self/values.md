@@ -1,5 +1,7 @@
 # Values
 
+## Exercise to determine your values
+
 ## My focus values
 
 * Psychological safety

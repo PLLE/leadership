@@ -1,5 +1,6 @@
-# Meaning
+# Focus
 
+Focus is fundamental in todys world.
 In general the work being done should have a positive meaning especially in the long-term.
 
 ## North Star
@@ -8,3 +9,4 @@ In general the work being done should have a positive meaning especially in the 
 
 * Transparency about goals
 * results orientation
+

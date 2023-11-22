@@ -1,7 +1,5 @@
 # Skills 
 
-## Reflect on your skills
-
 ## CEO Skills some statistics
 
 Lambs, focus on emotional intelligence --> 57% success

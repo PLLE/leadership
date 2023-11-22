@@ -27,3 +27,7 @@ Leadership has many facettes, for the start we want to break it down into the fo
 * Concise Communicators
 
 
+## Definitions of Leadership
+
+* Leadership means serving 
+* True leaders don't create followers they create other leaders!
