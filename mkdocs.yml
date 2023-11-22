@@ -26,6 +26,7 @@ theme:
         name: Switch to light mode    
       primary: teal
       accent: lime
+  custom_dir: overrides
 
 markdown_extensions:
   - pymdownx.highlight:
