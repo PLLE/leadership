@@ -1,7 +1,14 @@
 site_name: Modern Leadership Toolbox
 site_url: https://plle.github.io/leadership/
+repo_url: https://github.com/PLLE/leadership
+repo_name: plle/leadership
+edit_uri: edit/main/docs/
 theme:
   name: material
+  icon:
+    repo: fontawesome/brands/git
+    edit: material/pencil 
+    view: material/eye
   features:
     - navigation.tabs
     - navigation.sections
@@ -12,6 +19,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.action.edit
   language: en
   palette:
     - scheme: default
