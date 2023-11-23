@@ -1,12 +1,6 @@
-# Overview
+# Positive Leadership
 
-## Leadership Styles
-
-### New Leadership styles
-
-#### Positive Leadership
-
-Assessment:
+Assessment by IBM:
 
 * Encourages learning from others.
 * Encourages me to experiment.
@@ -27,11 +21,3 @@ Assessment:
 * Assigns work to me that challenges my skills.
 * Has tough conversations to address difficult issues.
 * Addresses poor performance in a timely manner.
-
-### Six Leadership styles according to Daniel Goleman
-
-![Six Leadership Styles](../assets/six-leadership-styles.png){width=800px}
-
-### Combination of leadership styles for best performance
-
-![Combination of Leadership styles](../assets/leadership-styles-combination.png){width=600px}

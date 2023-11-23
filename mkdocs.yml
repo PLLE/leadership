@@ -12,7 +12,9 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
-    - toc.integrate
+    - navigation.expand
+    - navigation.indexes
+    #- toc.integrate
     - toc.follow
     - navigation.top
     - search.suggest
@@ -53,3 +55,4 @@ markdown_extensions:
 
 copyright: |
   &copy; 2023 <a href="https://github.com/plle"  target="_blank" rel="noopener">Paul Liepe</a>
+

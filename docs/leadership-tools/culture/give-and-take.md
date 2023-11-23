@@ -1,0 +1,1 @@
+# Give and Take philosophy
