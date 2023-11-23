@@ -12,12 +12,22 @@ Use this platform to reflect my leadership style and provide it as an example to
 
 ## Structure
 
+### Version 1
+
 Leadership has many facettes, for the start we want to break it down into the following categories which will have many sub categories:
 
 * Leading Self
 * Leading Others
 * Leading Organization
 
+![Overview 1](/assets/Leeadership-Overview.png)
+
+### Version 2
+
+![Overview 2](/assets/LeadershipDefinition_615px.png)
+
+
+![Gif Test](/assets/rage-work.gif)
 
 ## Core characteristics of modern leaders
 
