@@ -7,3 +7,4 @@ Talking in front of bigger audiences in the organization is a key skill.
 ## Concise communication
 
 ## Crisis Communication
+

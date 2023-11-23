@@ -2,50 +2,36 @@
 
 ## Leadership Styles
 
-1. Servant Leadership:
-Mantra: "Serve to Lead."
-Principle: Leaders prioritize the needs of their team members, empowering and supporting them to achieve their best.
+### New Leadership styles
 
-2. Adaptive Leadership:
-Mantra: "Embrace Change, Foster Adaptability."
-Principle: Leaders navigate uncertainty, adapt to change, and encourage a culture of continuous learning and innovation.
+#### Positive Leadership
 
-3. Authentic Leadership:
-Mantra: "Be True to Yourself and Others."
-Principle: Leaders lead with authenticity, transparency, and integrity, building trust with their team.
+Assessment:
 
-4. Inclusive Leadership:
-Mantra: "Embrace Diversity and Inclusion."
-Principle: Leaders foster an inclusive environment, valuing diverse perspectives and creating a sense of belonging for all team members.
+* Encourages learning from others.
+* Encourages me to experiment.
+* Encourages me to take the time to re-energize.
+* Avoids team burn out.
+* Communicates in a positive way (e.g. supportive, appreciative, recognizes progress).
+* Creates a positive work environment, where I can do my best work.
+* Ensures everyone feels they belong and matter.
+* Addresses negative behaviors in others (e.g. judging, intimidating, shouting).
+* Avoids negative leadership (e.g. judging, intimidating, shouting).
+* Takes time to understand and remove roadblocks for our team.
+* When starting projects, begins with clear outcomes.
+* When staffing projects, builds small, self-directed teams.
+* Throughout a project, encourages fast iterations.
+* Trusts our team.
+* Communicates with transparency (e.g. shares key information).
+* Gives me support that helps me deliver better outcomes.
+* Assigns work to me that challenges my skills.
+* Has tough conversations to address difficult issues.
+* Addresses poor performance in a timely manner.
 
-5. Agile Leadership:
-Mantra: "Stay Agile, Foster Agility."
-Principle: Leaders promote flexibility, adaptability, and quick decision-making in response to changing circumstances.
+### Six Leadership styles according to Daniel Goleman
 
-6. Empowering Leadership:
-Mantra: "Empower Others to Excel."
-Principle: Leaders delegate responsibility, provide autonomy, and encourage team members to take ownership of their work.
+![Six Leadership Styles](../assets/six-leadership-styles.png){width=800px}
 
-7. Collaborative Leadership:
-Mantra: "Collaborate for Success."
-Principle: Leaders prioritize collaboration, communication, and teamwork, recognizing that collective efforts drive success.
+### Combination of leadership styles for best performance
 
-8. Purpose-Driven Leadership:
-Mantra: "Lead with Purpose."
-Principle: Leaders align their actions with a clear sense of purpose, inspiring and motivating their team toward a shared mission.
-
-9. Resilient Leadership:
-Mantra: "Stay Resilient in the Face of Challenges."
-Principle: Leaders demonstrate resilience, managing setbacks, and fostering a positive mindset in the face of adversity.
-
-10. Learning Leadership:
-Mantra: "Never Stop Learning."
-Principle: Leaders prioritize continuous learning, staying curious, and encouraging a culture of ongoing skill development.
-
-11. Results-Driven Leadership:
-Mantra: "Focus on Impact."
-Principle: Leaders emphasize outcomes and results, setting clear goals and driving the team toward measurable achievements.
-
-12. Wellbeing-Centric Leadership:
-Mantra: "Prioritize Wellbeing."
-Principle: Leaders prioritize the physical and mental health of their team members, recognizing the importance of work-life balance.
+![Combination of Leadership styles](../assets/leadership-styles-combination.png){width=600px}

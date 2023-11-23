@@ -25,3 +25,8 @@ Invest time in doing other person a favour, the more you give on a consistent mo
 * bring them an offering they can use (party, sport activity, business)
 
 ## Networking plan
+
+
+## Book recommendations
+
+* Wie man Freunde gewinnt! (Dale Carnegie)
