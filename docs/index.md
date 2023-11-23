@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Views on Leadership
+# 🏡 Home 
 
 ## Vision
 
@@ -10,9 +10,12 @@ The community consists of leadership enthusiasts which collaborately discuss and
 
 Use this platform to reflect my leadership style and provide it as an example to the community.
 
+<object data="assets/test.drawio.svg"></object>
+
+
 ## What does a modern leader need?
 
-![Modern Leader](../assets/modern-leader-draft.png){width=400px}
+![Modern Leader](assets/modern-leader-draft.png){width=400px}
 
 ### Positivity
 

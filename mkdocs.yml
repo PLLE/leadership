@@ -52,6 +52,12 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
+  # Mermaid import
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 
 copyright: |
   &copy; 2023 <a href="https://github.com/plle"  target="_blank" rel="noopener">Paul Liepe</a>
