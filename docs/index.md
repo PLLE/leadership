@@ -3,8 +3,17 @@ comments: true
 ---
 # 🏡 Home
 
+## Motivation
+
+Hard skills are manadatory and show mastery and proficiency.
+Soft skills show communication and relationship abilitiesand are the differentiatiors which make great leaders! Therefore this page targets to ummarize the important soft skills for technical leaders.
+
+## Open-Source
+
 The vision behind this page is to build an "open-source" community for leadership!
-The community consists of leadership enthusiasts which collaborately discuss and define modern leadership practices on this platform. <br>
+The community consists of leadership enthusiasts which collaborately discuss and define modern leadership practices on this platform.
+
+## High-level overview (will be clickable)
 
 <object data="assets/landscape.drawio.svg" type="image/svg+xml" width="600"></object>
 

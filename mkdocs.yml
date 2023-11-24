@@ -1,4 +1,4 @@
-site_name: Modern Leadership Toolbox
+site_name: Modern Tech Leadership
 site_url: https://plle.github.io/leadership/
 repo_url: https://github.com/PLLE/leadership
 repo_name: plle/leadership
@@ -12,7 +12,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
-    - navigation.expand
+    #- navigation.expand
     - navigation.indexes
     #- toc.integrate
     - toc.follow
@@ -52,12 +52,6 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
-  # Mermaid import
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
 
 copyright: |
   &copy; 2023 <a href="https://github.com/plle"  target="_blank" rel="noopener">Paul Liepe</a>

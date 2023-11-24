@@ -32,3 +32,12 @@ Technicken zur Überwindung von Problemen beim Zuhören
 Nimm in Gedanken vorweg was Sprecher sagen will  
 Versuche Beweismaterial des Redners zu verstehen und zu überprüfen
 Wiederhole von Zeit zu Zeit das Gehörte
+
+
+### Levels of Listening
+
+Listening is fundamental to effective coaching, so it's useful to have a framework to talk it. We can consider three types of listening:
+
+Internal Listening is when you're focused on your own thoughts, and largely not paying attention to the conversation happening around you. Daydreaming during a meeting is a great example of this.
+Focused Listening is when you're tuned into what another person is saying. You might be so engaged that you're hanging on their every word, and perhaps you could even later quote what they're saying.
+Ambient Listening is awareness of any non-verbal communication happening: body language; sensations of anger/tension/elation, etc. If you enter a room where two people were just arguing, you can often feel the tension in the air -- this is ambient listening.

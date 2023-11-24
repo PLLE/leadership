@@ -43,3 +43,23 @@ Credit: https://www.reddit.com/r/Entrepreneur/comments/llxg8y/the_book_summary_e
 **Give the other person a fine reputation to live up to.** If you want to improve a person in a certain respect, act as though that particular trait were already one of his or her outstanding characteristics.
 
 **Make the other person happy about doing the thing you suggest.** Always align what you want with what makes the other person happy while being sincere and thoughtful.
+
+
+### Own Thoughts
+## Mechanics
+
+Show other person that you are happy to see her
+
+* Keep positive things about person in mind
+
+Show real interest in other person
+
+* Listen
+* Admire what they do!
+* Ask for Advice
+
+Invest time in doing other person a favour, the more you give on a consistent mode the more you get back
+
+* congratulate to birthday
+* make them a present (ideally sth. they mentioned)
+* bring them an offering they can use (party, sport activity, business)
