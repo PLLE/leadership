@@ -1,12 +1,14 @@
 ---
 comments: true
 ---
-# 🏡 Home
+# 🏡 Home v2
 
 The vision behind this page is to build an "open-source" community for leadership!
 The community consists of leadership enthusiasts which collaborately discuss and define modern leadership practices on this platform. <br>
 
-<object data="assets/landscape.drawio.svg" type="image/svg+xml" width="600"></object>
+## Leadership tools
+
+<object data="../assets/mindmap.drawio.svg" type="image/svg+xml" width="600"></object>
 
 ### Leading Self
 

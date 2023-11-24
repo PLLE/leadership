@@ -71,3 +71,18 @@ Irrlehren:
 * Budget & Budgetierung
 * Leistungsbeurteilung
 * Systematische Müllabfuhr (Prozess zum Löschen von Altem, Lean machen, was würde man heute nicht neu beginnen --> davon trennen (Meetings, Prozesse, Produkte))
+
+
+# Leadership Practices
+
+Here I would like to create an overview of important leadership practices so what modern leaders should focus on. 
+
+* Hiring
+* Vision, Mission, OKR's
+* Celebration & Appreciation
+* Coaching
+* Radical Candor
+* 
+
+## Book recommendations
+Führen Leisten Leben - Fredmund Malik 
