@@ -1,43 +1,49 @@
-# Leadership Values
+---
+comments: true
+---
+# ❤️ Leadership Values
 
-## The 9 Traits That Define Great Leadership
+## What are leadership values?
 
-[Link](https://www.inc.com/peter-economy/the-9-traits-that-define-great-leadership.html)
+Values are the underlying beliefs that guide our decisions and actions and ultimately shape our days and careers.
+Leadership values are a subset of those values that positively influence one’s ability to lead effectively and be a ‘good leader.’
 
-To motivate your team to achieve the highest levels of performance (and create an extraordinary organization in the process), here are the qualities you should model every day.
+You can foster and develop leadership values with time. However, as with many character traits, you will probably have a tendency toward one specific leadership skill or another.
 
-## 1. Awareness
+## The importance of a leader with values
 
-There is a difference between management and employees, bosses and workers. Leaders understand the nature of this difference and accept it; it informs their image, their actions, and their communication. They conduct themselves in a way that sets them apart from their employees--not in a manner that suggests they are better than others, but in a way that permits them to retain an objective perspective on everything that's going on in their organization.
+Everyone has values, but not everyone exhibits good leadership values.
+Anyone in a leadership role should be aware of the values they hold, their strengths, and the areas they can improve on as they grow as a leader.
+Values are more intrinsic and reflect the leader's character. They influence how a leader prioritizes goals, treats others, and makes ethical decisions.
 
-## 2. Decisiveness
+**Why?**
 
-All leaders must make tough decisions.  It goes with the job. They understand that in certain situations, difficult and timely decisions must be made in the best interests of the entire organization, decisions that require a firmness, authority, and finality that will not please everyone. Extraordinary leaders don't hesitate in such situations. They also know when not to act unilaterally but instead foster collaborative decision making.
+Because your values determine how you execute leadership, the team environment you create, and the success of your company. The values you display as a leader will permeate your entire organization and affect its performance.
 
-## 3. Empathy
+Leaders who adhere to their values earn respect and commitment from their teams. Value-driven leadership can inspire others not just to follow them but to adopt those values as their own.  
 
-Extraordinary leaders praise in public and address problems in private, with a genuine concern. The best leaders guide employees through challenges, always on the lookout for solutions to foster the long-term success of the organization. Rather than making things personal when they encounter problems, or assigning blame to individuals, leaders look for constructive solutions and focus on moving forward.
+By embracing the notion that you can develop leadership qualities, you can also choose leadership values to develop. This is possible both through leadership training and mindful attention and practice.
 
-## 4. Accountability
+## Important leaderhip values
 
-Extraordinary leaders take responsibility for everyone's performance, including their own. They follow up on all outstanding issues, check in on employees, and monitor the effectiveness of company policies and procedures. When things are going well, they praise. When problems arise, they identify them quickly, seek solutions, and get things back on track.
+* Integrity
+* Honesty and transparency
+* Accountability
+* Respect
+* Psychological Safety
+* Openness
+* Collaboration
 
-## 5. Confidence
+## How to identify your leadership values
 
-Not only are the best leaders confident, but their confidence is contagious. Employees are naturally drawn to them, seek their advice, and feel more confident as a result. When challenged, they don't give in too easily, because they know their ideas, opinions, and strategies are well-informed and the result of much hard work. But when proven wrong, they take responsibility and quickly act to improve the situations within their authority.
+Becoming a great leader is a journey that will last your entire career.
+Of course, the sooner you start focusing on these leadership values, the faster you’ll become the leader you want to be:
 
-## 6. Optimism
+You can uncover these natural leadership values by asking yourself questions such as:
 
-The very best leaders are a source of positive energy. They communicate easily. They are intrinsically helpful and genuinely concerned for other people's welfare. They always seem to have a solution, and always know what to say to inspire and reassure. They avoid personal criticism and pessimistic thinking, and look for ways to gain consensus and get people to work together efficiently and effectively as a team.
+* What values guide my personal life?
+* How do I react in common situations (such as when confronted with change)?
+* What kind of leaders do I gravitate to (such as a passionate leader or a more strategic leader)? Do you gravitate toward leaders who lead with a strategic foresight?
+* What are the goals, mission, and culture of my company?
 
-## 7. Honesty
-
-Strong leaders treat people the way they want to be treated. They are extremely ethical and believe that honesty, effort, and reliability form the foundation of success. They embody these values so overtly that no employee doubts their integrity for a minute. They share information openly, and avoid spin control.
-
-## 8. Focus
-
-Extraordinary leaders plan ahead, and they are supremely organized. They think through multiple scenarios and the possible impacts of their decisions, while considering viable alternatives and making plans and strategies--all targeted toward success. Once prepared, they establish strategies, processes, and routines so that high performance is tangible, easily defined, and monitored. They communicate their plans to key players and have contingency plans in the event that last-minute changes require a new direction (which they often do).
-
-## 9. Inspiration
-
-Put it all together, and what emerges is a picture of the truly inspiring leader: someone who communicates clearly, concisely, and often, and by doing so motivates everyone to give his or her best all the time. They challenge their people by setting high but attainable standards and expectations, and then giving them the support, tools, training, and latitude to pursue those goals and become the best employees they can possibly be.
+The leadership values related to effective leadership at your company will lie at the intersection of your personal values and your company’s values.

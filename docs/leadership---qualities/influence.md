@@ -1,5 +1,17 @@
 # Influence
 
+## 4. Reinforcement and influence
+
+Positive reinforcement and recognition to your team members are important forms of communication.
+
+“The number one thing that you have to do as a leader: to bolster the confidence of the people you lead.” (Satya Nadella, CEO of Microsoft)
+
+When things are busy, it can be all too easy to speed along without making an effort to show that you noticed someone’s contribution.
+However, positive reinforcement is a huge aspect of improving employee motivation and engagement. Not only that but in lifting your influence as a business leader.
+Without recognition, the motivation of team members can lag, and their productivity will grind to a halt.
+By demonstrating appreciative behavior, you encourage others to reinforce each other too. This helps boost employee morale across the organization.
+
+
 * Through a common way or interest
 * Through becoming part of a team
 * Through inspiration - be excited about topics this will flow over to others

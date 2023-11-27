@@ -12,3 +12,7 @@
 ### Why do employees leave?
 
 * People most often leave their manager, becuase they do not care what they want to achieve and coach them into that direction.
+
+### Distinctionn Leader & Manager
+
+ what differentiates a leader from a manager is the ability to figure out what individuals and groups to network with to achieve organizational goals.
