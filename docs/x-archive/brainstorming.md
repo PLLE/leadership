@@ -85,4 +85,4 @@ Here I would like to create an overview of important leadership practices so wha
 * 
 
 ## Book recommendations
-Führen Leisten Leben - Fredmund Malik 
+Führen Leisten Leben - Fredmund Malik
