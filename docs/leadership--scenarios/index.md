@@ -6,17 +6,11 @@ It summarizes typical leadership scenarios/ situations and gives indications whi
 At the moment the following scenarios are available:
 
 * Recruitment Journey
-* [Career Development with team members](career-development.md)
-* [Employee leaves](employee-leaves.md)
-
-* Change in leadership
-  * First 100 days as a new leader
-  * First 100 days of a new team member
-* Team dialogue
-  * Give the team a direction and set goals
-* Move into new role
-
-* Manage the typical working week
-* Manage performance of team members
-
-* Manage conflicts in your team
+* Onboard new employee
+* Develops direction and goals with the team
+* Career Conversation
+* Give and receive feedback
+* Manage conflicts
+* Manage sensitive conversations
+* [Employee changes role within the company](towards-a-new-role.md)
+* [Employee leaves the company](employee-leaves.md)
