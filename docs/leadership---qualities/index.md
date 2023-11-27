@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# ❤️ Leadership Qualities
+# 🦄 Leadership Qualities
 
 ## What are leadership qualities?
 

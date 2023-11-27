@@ -1,4 +1,4 @@
-# Leadership challenges
+# 🧗‍♀️ Leadership challenges
 
 This part aims to introduce a new view to the domain of leadership.
 It summarizes typical leadership challenges/ moments and gives indications which leadership qualities are important and which tools can be used in the respective situations.
