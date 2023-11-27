@@ -12,4 +12,4 @@
 
 ## Ask for mood in the team and track it over time
 
-Mood Meter available? 
+Mood Meter available?

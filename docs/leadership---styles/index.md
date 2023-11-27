@@ -4,9 +4,9 @@ hide:
   #- navigation
   - toc
 ---
-# 😎 Leadership Styles
+# 🦸‍♂️ Leadership Styles
 
-According to the Harvard Business review there are various leadership styles which are suitable for different situations. 
+According to the Harvard Business review there are various leadership styles which are suitable for different situations.
 
 * [**Commanding**](commanding.md): Leaders demand immediate compliance.
 * [**Visionary**](visionary.md): Leaders mobilize people toward a vision.

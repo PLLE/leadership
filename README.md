@@ -23,7 +23,7 @@ In order to contirbute to the leadership best practices please create a merge re
 
 ## Deployment
 
-Deployment happens automatically. 
+Deployment happens automatically.
 Page can be accessed via <https://plle.github.io/leadership>
 
 ## Contact

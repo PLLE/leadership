@@ -1,9 +1,8 @@
 # How to Win Friends and Influence People
 
-Book summary of "How to Win Friends and Influence People" by Dale Carnegie. 
+Book summary of "How to Win Friends and Influence People" by Dale Carnegie.
 
-Credit: https://www.reddit.com/r/Entrepreneur/comments/llxg8y/the_book_summary_every_entrepreneur_should_read/
-
+Credit: <https://www.reddit.com/r/Entrepreneur/comments/llxg8y/the_book_summary_every_entrepreneur_should_read/>
 
 ## Handling People
 
@@ -12,7 +11,6 @@ Credit: https://www.reddit.com/r/Entrepreneur/comments/llxg8y/the_book_summary_e
 **Give honest and sincere appreciation.** What do most people want? Apart from food, sleep, health and money people have a deep desire to feel important. When selling something to a person, align with the person’s goals.
 
 **Don't criticize, condemn or complain.** Criticism most of the time doesn't work and merely puts people on the defensive. Instead, try to understand why people do what they do.
-
 
 ## Make People Like You
 
@@ -24,7 +22,6 @@ Credit: https://www.reddit.com/r/Entrepreneur/comments/llxg8y/the_book_summary_e
 
 **Make the other person feel important - and do it sincerely.** When a customer calls you and complains about your product pay attention and make him feel important. Even if he has already agreed for a 2 year contract and he is the smallest of your 10.000 customers.
 
-
 ## How to Win People to Your Way of Thinking
 
 **Avoid arguments.** It’s impossible to win an argument. If you lose the argument, you lose; if you win the argument, you have made the other person feel inferior and resentful.
@@ -35,7 +32,6 @@ Credit: https://www.reddit.com/r/Entrepreneur/comments/llxg8y/the_book_summary_e
 
 **Be sympathetic with the other person's ideas and desires.** Disagreement doesn't necessarily mean there is a wrong and right side. You should be open to other people's points of view and learn from them.
 
-
 ## How to Change People
 
 **Ask questions instead of giving orders.** Humans hate taking orders. Give people the opportunity to think and do things by themselves.
@@ -44,8 +40,8 @@ Credit: https://www.reddit.com/r/Entrepreneur/comments/llxg8y/the_book_summary_e
 
 **Make the other person happy about doing the thing you suggest.** Always align what you want with what makes the other person happy while being sincere and thoughtful.
 
-
 ### Own Thoughts
+
 ## Mechanics
 
 Show other person that you are happy to see her

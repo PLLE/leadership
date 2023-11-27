@@ -1,6 +1,6 @@
 # Journey towards a new career step
 
-## Why you as a leader need to support it!
+## Why you as a leader need to support it
 
 The lack of career development is the top reason for people to quit their job. (McKinsey)
 
