@@ -8,6 +8,7 @@ At the moment the following scenarios are available:
 ## People centric
 
 * [Reflect your leadership values, qualities, style and practices](reflect-yourself.md)
+* Manage yourself
 * [Hiring Journey](hiring.md)
 * Onboard new employee
 * Develops direction and goals with the team
