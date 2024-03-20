@@ -27,7 +27,7 @@ To lead effectively, a leader must fulfill a spectrum of qualities. These includ
 **Leadership Styles:**
 Leadership finds expression through various styles, each uniquely suited to different scenarios. An authoritative leader sets a clear vision, an affiliative leader fosters collaboration, a coaching leader prioritizes individual growth, and a transformational leader inspires change. Successful leaders adeptly navigate between different styles, applying them judiciously to meet the diverse needs of their team.
 
-**Leadership Challengess**
+**Leadership Challenges**
 This section, centered on leadership challenges, provides a concise exploration of pivotal moments in a leader's journey. Designed with a leader-centric focus, it sheds light on the dynamic and transformative experiences that shape effective leadership.
 
 **Tools for Leading Teams and Organizations:**

@@ -29,3 +29,8 @@ Page can be accessed via <https://plle.github.io/leadership>
 ## Contact
 
 Paul Liepe <paulleonliepe@gmail.com>
+
+
+## ToDo
+
+Share with Michael, Sabrina, LTA participants
